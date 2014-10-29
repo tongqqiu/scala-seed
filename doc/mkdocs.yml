@@ -1,0 +1,4 @@
+site_name: Scala Seed Documentation
+pages:
+- [index.md, Home]
+- [help.md, Help]
