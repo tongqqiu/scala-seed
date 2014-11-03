@@ -31,3 +31,7 @@ mvn test
 
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tongqqiu/scala-seed/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
