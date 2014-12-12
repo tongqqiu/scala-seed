@@ -1,5 +1,8 @@
 # Scala Seed Project
 
+[![Build Status](https://travis-ci.org/tongqqiu/scala-seed.svg?branch=master)](https://travis-ci.org/tongqqiu/scala-seed)
+
+
 This is maven based scala project skeleton
 
 
