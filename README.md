@@ -3,6 +3,11 @@
 This is maven based scala project skeleton
 
 
+## Requirements
+
+- JDK
+- Python and PIP when using docs
+
 ## Features
 
 
@@ -30,8 +35,38 @@ mvn test
 ```
 
 
+## Documentation
+
+The documents are written in markdown format.
+
+```
+cd doc
+```
 
 
+### Install Mkdocs
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tongqqiu/scala-seed/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+```
+pip install Mkdocs
+```
+
+### Preview
+
+In the current directory
+```
+mkdocs serve
+```
+
+Open up <http://127.0.0.1:8000/>
+
+### Add New Pages
+
+* Create new markdown page under `docs`
+* Update configuration file `mkdocs.yml`
+
+
+### More details
+
+<http://www.mkdocs.org/>
+
 
